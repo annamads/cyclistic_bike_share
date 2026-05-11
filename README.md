@@ -71,7 +71,11 @@ Insights suggest that members use both bike types for functionality and for shor
 3. Promote biking as routine exercise by tracking miles ridden and offering membership discounts at milestones
 4. Offer ride bundles for a certain amount of weekend night rides that can be applied to a membership
 5. Promote electric bikes as eco-friendly car replacements for longer trips and encourage membership through rewards tied to frequent and longer e-bike usage
- 
+
+## Future Improvements 
+1. Complete further analysis on the proportion of casual riders that live in Chicago vs. tourists to better understand who to target and how these subsets of riders use bikes differently.
+2. Explore differences in start and end stations and routes between user types to better clarify use cases. Supplementary data may be needed due to missing station data in the current dataset. 
+
 ## Project Files 
 - `Data Cleaning.ipynb` → Python cleaning notebook
 - `Data Analysis.ipynb` → Python analysis notebook
