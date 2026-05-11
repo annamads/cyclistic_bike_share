@@ -1,7 +1,7 @@
 # Cyclistic Bike-Share Case Study 
 
 ## Overview 
-This project analyzes 12 months of Cyclistic bike-share data to identify usage differences between casual riders and annual members to provide marketing insights to increase annual memberships. 
+This project analyzes 12 months of Cyclistic bike-share data to identify usage differences between casual riders and annual members and provide marketing recommendations to increase annual memberships. 
 
 ## Tools Used
 - Python
