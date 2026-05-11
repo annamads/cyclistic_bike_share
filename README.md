@@ -52,6 +52,8 @@ Insights suggest that members use both bike types for functionality and for shor
 
 ## Visuals 
 
+Visuals were created to analyze ride frequency and duration, weekday patterns, and seasonality between casual riders and annual members. 
+
 ### Ride Frequency 
 ![Ride Frequency](visuals/ride_frequency.png)
 
