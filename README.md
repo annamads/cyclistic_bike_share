@@ -72,7 +72,7 @@ Insights suggest that members use both bike types for functionality and for shor
 4. Offer ride bundles for a certain amount of weekend night rides that can be applied to a membership
 5. Promote electric bikes as eco-friendly car replacements for longer trips and encourage membership through rewards tied to frequent and longer e-bike usage
  
-## Files 
+## Project Files 
 - `Data Cleaning.ipynb` → Python cleaning notebook
 - `Data Analysis.ipynb` → Python analysis notebook
 - `cyclistic_case_study.pdf` → Final business report
