@@ -61,6 +61,9 @@ Insights suggest that members use both bike types for functionality and for shor
 ### Weekday Patterns 
 ![Weekday Patterns](visuals/weekday_patterns.png)
 
+### Seasonal Patterns
+![Seasonal Patterns](visuals/seasonal_duration.png)
+
 
 ## Key Recommendations 
 1. Promote membership to casual riders as an inexpensive and convenient means of transportation. After 10 rides, utilize notifications to show cost difference between rides and gas, and show savings per trip with a membership 
