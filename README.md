@@ -16,6 +16,7 @@ Cyclistic's goal is to convert casual riders to members in order to maximize ann
 ## Dataset
 - 12 months of Divvy/Cyclistic trip data (April 2025-March 2026)
 - Public dataset provided by Divvy bike-share via City of Chicago
+- Limitations include lack of personally identifiable information and gaps in location data 
   
 ## Process 
 - Consolidated and cleaned 12 monthly datasets
